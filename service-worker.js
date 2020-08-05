@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Surendra-25/react123/precache-manifest.27a10f87aaaebc8941586992fffbdb4b.js"
+  "/Surendra-25/react123/precache-manifest.387d578f64cbf3722d4bc828b235a187.js"
 );
 
 self.addEventListener('message', (event) => {
