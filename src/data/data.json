@@ -1,0 +1,50 @@
+{
+    "profile":[
+        {
+            "details":{
+                "name":"Surendra",
+                "role":"MERN Developer",
+                "mobile":"987654321",
+                "email":"surendra@gmail.com"
+            }
+        },
+        {
+            "details":{
+                "name":"Suresh",
+                "role":"MEAN Developer",
+                "mobile":"987654567",
+                "email":"suresh@gmail.com"
+            }
+        }
+    ],
+    "Mobiles":[
+        {
+            "details":{
+                "name":"MI",
+                "model":"MI note 6 pro",
+                "price":"12000"
+            }
+        },
+        {
+            "details":{
+                "name":"Apple",
+                "model":"Apple Iphone 11",
+                "price":"72600"
+            }
+        },
+        {
+            "details":{
+                "name":"Moto",
+                "model":"Moto one",
+                "price":"15000"
+            }
+        },
+        {
+            "details":{
+                "name":"samsung",
+                "model":"Samsung S6",
+                "price":"59600"
+            }
+        }
+    ]
+}
